@@ -11,9 +11,7 @@ It’s a great beginner-friendly project to understand:
 
 ## 📷 Project Photos & Simulation
 
-> Replace the placeholders below with actual images from your circuit and simulation.
-
-![Proteus Schematic](![image](https://github.com/user-attachments/assets/26733727-50bb-46ba-91f5-9f2b37d93f60)
+![Proteus Schematic](./image/line_follower_connection.png
 )
 
 ![Robot Car Photo](./images/robot_car_photo.jpg)
