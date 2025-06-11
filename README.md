@@ -45,7 +45,7 @@ The Arduino uses **PWM signals** to control motor speed via the **ENA/ENB** pins
 
 ---
 
-## 📡 Wiring Diagram (Mermaid)
+## 📡 Wiring Diagram
 
 ```mermaid
 graph TD
@@ -86,7 +86,7 @@ graph TD
     CommonGND --> L298GND
     CommonGND --> IR_GND[IR Sensors GND]
 ```
-## 🧠 Functional Flowchart (Mermaid)
+## 🧠 Functional Flowchart
 
 ```mermaid
 flowchart TD
