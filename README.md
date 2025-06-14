@@ -7,14 +7,16 @@ It’s a great beginner-friendly project to understand:
 - ⚙️ Motor driving using an H-Bridge (L298N)
 - 💡 Real-time decision-making logic
 
+![Proteus Schematic](./image/body.png)
 ---
 
 ## 📷 Project Photos & Simulation
 
 ![Proteus Schematic](./image/line_follower_connection.png
 )
-
-![Robot Car Photo](./images/robot_car_photo.jpg)
+---
+![Proteus Schematic](./image/com.png
+)
 
 ---
 
