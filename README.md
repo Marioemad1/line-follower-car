@@ -8,15 +8,19 @@ It’s a great beginner-friendly project to understand:
 - 💡 Real-time decision-making logic
 
 ![Proteus Schematic](./image/body.png)
+
+![Proteus Schematic](./image/grab_cad_des.png)
+
 ---
 
 ## 📷 Project Photos & Simulation
 
-![Proteus Schematic](./image/line_follower_connection.png
-)
+![Proteus Schematic](./image/line_follower_connection.png)
+
 ---
-![Proteus Schematic](./image/com.png
-)
+![Proteus Schematic](./image/com.png)
+
+![Proteus Schematic](./image/grab_cad_des1.png)
 
 ---
 
